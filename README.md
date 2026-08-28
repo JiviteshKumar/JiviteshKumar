@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/JiviteshKumar/jivitesh-port" target="_blank"><b>Portfolio</b></a> ·
-  <a href="mailto:jiviteshk32@gmail.com">Email</a> ·
+  <a href="mailto:jiviteshk32@gmail.com">jiviteshk32@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/jivitesh-kumar-252731287" target="_blank">LinkedIn</a>
 </p>
 
