@@ -16,10 +16,10 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **task-automator-bot** — a CLI AI agent that automates file organization, renaming, and PDF summarization
+- 🔭 Currently building **leo** — an agent that takes over your window and does your work
 - 🌱 Learning more about applied AI agents and full-stack development
-- 💡 I like turning repetitive tasks into small tools that just work
-- 📫 Reach me at **YOUR_EMAIL_HERE**
+- 💡 I like removing the involvement of human. everything AI. diving into biotech soon.
+- 📫 Reach me at **jiviteshk32@gmail.com**
 
 ---
 
